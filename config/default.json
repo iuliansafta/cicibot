@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "ed781224f5f81140653a1a5189e54f1d",
+    "pageAccessToken": "EAAZAgrWIKtjgBAMBpA8tnHmhtZAhrNyE6Yk67eiZC8laeLIiHVXQJfFgxwx14WxwrSg4igr1GShraRonNnRR0YDSFZBmOo6hsVcZBGRgs7J79FMFjuJK9P0qdINiIZBTgRhgRnyUzOiZCFZAtFev89RZAgtBD2dqyZBDDL6KVu7KKWlwZDZD",
+    "validationToken": "MyCiciToken",
+    "serverURL": "https://cicibot.herokuapp.com"
 }
